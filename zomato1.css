@@ -1,0 +1,345 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 300;
+    font-style: normal;
+    /* color: white; */
+
+}
+.a1{
+ text-decoration: none;
+ font-size: 14px ;
+ margin-left: 140px;
+ font-weight: bold;
+ color:black;
+}
+#gta{
+    margin-left: 40px;
+}
+#navbar{
+    background-image: url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png);
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30px;
+    width: 100%;
+
+}
+.h1{
+    text-align: center;
+    font-size: 90px;
+    font-weight: bold;
+    color: white;
+}
+#p{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+}
+#in1{
+    background-color: white;
+    padding: 15px;
+    display: block;
+    margin: auto;
+    width: 600px;
+    border: none;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+input::placeholder{
+    color: black;
+}
+#city{
+color: black;
+border: none;
+margin-left: 550px;
+}
+option{
+    color: black;
+}
+#main1{
+    width: 100%;
+    position: relative;
+    display: flex;
+    margin-top: 5vh;
+    padding-left: 20px;
+    
+}
+.box1{
+    margin-left: 100px;
+width: 350px;;
+box-shadow: 3px  3px 20px rgba(0,0,0,0.2);
+border-radius: 10px;
+}
+.img{
+    width: 100%;
+    height:150px;
+    border-radius: 10px;
+
+}
+.box2{
+    margin-left: 20px;
+width: 350px;;
+box-shadow: 3px  3px 20px rgba(0,0,0,0.2);
+}
+.box3{
+    margin-left: 20px;
+width: 350px;;
+box-shadow: 3px  3px 20px rgba(0,0,0,0.2);
+}
+.pa1{
+    color: black;
+    font-size: 1.6em;
+    /* background-color: #dbdad7; */
+    border-radius: 5px;
+    
+}
+.pa2{
+    color: black;
+    font-size:20px;
+    font: weight 2px;;
+    /* background-color: #dbdad7; */
+}
+#col1{
+margin-left: 120px;
+font-size: 22px;
+}
+#col2{
+    margin-left: 120px;
+    font-size: 28px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+#col1{
+    margin-top: 100px;
+}
+
+#boxh{
+    width: 100%;
+    height: 40vh;
+    
+    display:flex;
+
+}
+#box1{
+    background-image: url(https://b.zmtcdn.com/data/collections/6922d49fb675d0490edb652abf5ca45f_1727171275.png?output-format=webp);
+    width: 20%;
+    height: 100%;
+    background-size: cover;
+    margin-left: 120px;
+    border-radius: 5px;
+    
+
+
+}
+#box2{
+    background-image: url(https://b.zmtcdn.com/data/collections/684397cd092de6a98862220e8cc40aca_1724236728.png?output-format=webp);
+    width:20%;
+    height: 100%;
+    background-size: cover;
+    margin-left: 20px;
+    border-radius: 5px;
+
+
+}
+#box3{
+    background-image: url(https://b.zmtcdn.com/data/collections/fbd237478a5d3b6ea08de83c30230cdd_1709815577.png?output-format=webp);
+    width:20%;
+    height: 100%;
+    background-size: cover;
+    margin-left: 20px;
+    border-radius: 5px;
+
+
+}
+#box4{
+    background-image: url(https://b.zmtcdn.com/data/collections/ce8f94a179d859d01f94c441d67ef5ad_1706256864.png?output-format=webp);
+    width:20%;
+    height: 100%;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left:20px;
+
+}
+.imgb{
+    margin-top: 225px;
+    color: #dbd9d5;
+    font-size: large;
+    backdrop-filter: blur(2px);
+
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#cityz{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    font: size 1.6rem;;
+    font-weight: 300;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+.name{
+    position: relative;
+    width: 100%;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+    max-width: 28%;
+    padding: 10px 10px 15px 120px;
+    border: 1px solid grey;
+    /* height: 80px; */
+    margin-top: 30px;
+    margin-left: 60px;
+    border-radius: 5px;
+box-shadow: 3px  3px 20px rgba(0,0,0,0.2);
+
+}
+#title{
+    font-size: 2.6rem;
+    line-height: 1.2;
+    font-weight: 400;
+    margin-top: 100px;
+    margin-left: 60px;
+    color: rgb(62, 67, 70);
+}
+.t1{
+    color: black;
+    font-weight: 500;
+    font-size: 2.6rem;
+}
+#imgm{
+    height: 100%;
+    width: 40%;
+}
+#main4{
+    height: 32rem;
+    width: 100%;
+    background-color: rgb(254, 214, 175);
+    display: flex;
+    margin-top: 100px;
+    padding-left: 180px;
+
+    
+}
+#mains1{
+    height: 100%;
+    width: 550px;
+}
+#mains5{
+    display: flex;
+}
+#mains21{
+    margin-top: 40px;
+    width: 100%;
+}
+h2{
+    color: rgb(28, 28, 28);
+    margin: 0px 0px 1.5rem;
+    font-weight: 500;
+    font-size: 2.4rem;
+    line-height: 5.6rem;
+}
+.mainp2{
+    font-size: 1rem;
+    margin-top: -40px;
+}
+#mains22{
+    font-size: 1rem;
+    margin-top: 30px;
+}
+#mains3{
+    height: 2.8rem;
+    margin-top: 30px;
+}
+.email2{
+    height: 100%;
+    width: 70%;
+    border-radius: 10px;
+    border-color:rgb(28, 28, 28); 
+    background-color: #dbdad7;
+}
+.ahare{
+    height: 100%;
+    width: 28%;
+    border-radius: 10px;
+    border-color:rgb(28, 28, 28); ;
+    background-color:#d64d5b;
+}
+#mains4{
+   color:  rgb(150, 144, 135);
+   font-size: 1rem;
+   margin-top: 30px;
+}
+#mains51{
+    height: 35px;
+    margin-top: 30px;
+
+}
+#mains52{
+    height: 35px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+#main5{
+    position: relative;
+    width: 110em;
+    height: 450px;
+    margin: 0px auto;
+    padding-top: 3em;
+    padding-bottom: 5em;
+    /* background-color: aqua; */
+    padding-left: 13%;
+    /* text-align: center; */
+}
+#main51{
+    width: 80%;
+    /* max-width: %; */
+    height: 18%;
+    margin: 0px 0px 2rem;
+    color: rgb(54, 54, 54);
+    font-size: 3rem;
+    line-height: 4rem;
+    font-weight: 500;
+
+}
+.main52{
+    width: 80%;
+    max-width: 60%;
+    height: 22%;
+    font-weight: 400;
+    color: rgb(28, 28, 28);
+    font-size: 20px;
+    line-height: 26px;
+    margin: 0px;
+    border-radius: 5px;
+box-shadow: 1px  1px 5px rgba(0,0,0,0.2);
+border: 0px  0px 2px 0px solid grey;
+margin-top: 20px;
+padding-left: 20px;
+padding-top: 18px;
+
+}
+#main6{
+    width: 100%;
+    /* margin-top: 70px; */
+    /* margin-left: 100px; */
+    border: none;
+
+}
+#main61{
+    background-color: #d6d4d0;
+    width: 90%;
+    margin-top: 70px;
+    margin-left: 100px;
+    border: none;
+}
